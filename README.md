@@ -30,7 +30,7 @@ RewriteRule . index.php
 
 ## DOCS
 
-System ClickCommand based on Symfony 5.* with:
+Performance Media Test based on Symfony 5.* with:
 ```json
 "php": "^7.2.5",
 "ext-PDO": "^7.3",
